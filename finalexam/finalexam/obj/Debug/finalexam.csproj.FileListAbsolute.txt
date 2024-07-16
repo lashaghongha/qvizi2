@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\finalexam\finalexam\bin\Debug\finalexam.exe.config
+C:\Users\user\Desktop\finalexam\finalexam\bin\Debug\finalexam.exe
+C:\Users\user\Desktop\finalexam\finalexam\bin\Debug\finalexam.pdb
+C:\Users\user\Desktop\finalexam\finalexam\obj\Debug\finalexam.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\finalexam\finalexam\obj\Debug\finalexam.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\finalexam\finalexam\obj\Debug\finalexam.exe
+C:\Users\user\Desktop\finalexam\finalexam\obj\Debug\finalexam.pdb
